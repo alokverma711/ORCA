@@ -47,7 +47,7 @@ const footerLinks: FooterSectionData[] = [
     links: [
       { title: 'Interactive Globe', href: '#hero', icon: Waves },
       { title: 'ISRO Official Portal', href: 'https://www.isro.gov.in', icon: Globe },
-      { title: 'GitHub Repository', href: 'https://github.com/dhrubojyotihazra/ORCA', icon: Code },
+      { title: 'GitHub Repository', href: 'https://github.com/alokverma711/ORCA', icon: Code },
     ],
   },
 ];
